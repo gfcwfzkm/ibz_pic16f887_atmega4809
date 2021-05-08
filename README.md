@@ -6,3 +6,4 @@ The only special component used in the actual thing were the "Flip-Pins" from Ev
 
 Image:
 ![alt text](https://github.com/gfcwfzkm/ibz_pic16f887_atmega4809/blob/main/SocketInAction.jpg)
+( Was testing / working on a basic PID electro-heater project there )
