@@ -3,3 +3,6 @@ A basic adapter-board I've made to replace the slow PIC16F887 with a ATmega4809 
 
 The BOM is so small that I didn't even made one, as the components used there are rather obvious.
 The only special component used in the actual thing were the "Flip-Pins" from EvilMadScientist, since I did not want to stress / bend socket on the dev-board too much.
+
+Image:
+![alt text](https://github.com/gfcwfzkm/ibz_pic16f887_atmega4809/blob/main/SocketInAction.jpg)
